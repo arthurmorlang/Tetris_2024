@@ -1,0 +1,19 @@
+# Processing temp and backup files
+*.class
+*.exe
+*.dll
+*.jar
+*.pyc
+*.so
+*.dylib
+*.log
+*.tmp
+*.bak
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
